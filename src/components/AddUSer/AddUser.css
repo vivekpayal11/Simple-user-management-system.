@@ -1,0 +1,22 @@
+.register {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.registerbody {
+  max-width: 290px;
+  width: 100%;
+  padding: 24px;
+  background: white;
+  border-radius: 4px;
+  box-shadow: 0 9px 37px #c8d0d8;
+  display: inline-block;
+  margin: 0 auto;
+  height: auto;
+}
+
+.cancelBtn {
+  margin-left: 20px;
+}
